@@ -1,4 +1,4 @@
-# MCP Server 安裝教學合集（Windows + 教師研習用）
+# MCP Server 安裝教學合集（Windows + 教師研習用）by小萬
 
 > **For AI agents:** This repository contains step-by-step installation guides for local MCP (Model Context Protocol) servers on Windows. Each document is a self-contained setup guide targeting teachers and educators. All servers use `stdio` transport and are intended to be shared across multiple AI clients (Gemini CLI, OpenCode, Codex/VS Code). Documents are written in Traditional Chinese.
 
